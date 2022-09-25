@@ -1,0 +1,2 @@
+# arcadePage
+ Page for games
